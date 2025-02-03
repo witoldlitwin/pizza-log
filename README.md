@@ -23,3 +23,6 @@ The UI should display a separate heatmap for each person (all people and their h
 
 The data should be stored in Cloudflare D1 database.
 ```
+
+![image](https://github.com/user-attachments/assets/f84bb99e-13a7-4f08-a0d7-a3e0f05ffe1d)
+
